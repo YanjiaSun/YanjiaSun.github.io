@@ -7,6 +7,12 @@ body {
 }
 
 
+.blank_row
+{
+    height: 50px !important; /* overwrites any other rules */
+    background-color: #FFFFFF;
+}
+
 .a {
 	font-weight: bold;
 	font-family: Verdana, Geneva, sans-serif;
